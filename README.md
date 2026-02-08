@@ -14,6 +14,7 @@
   <a href="https://www.npmjs.com/package/@prettier/plugin-php">
     <img alt="npm version" src="https://img.shields.io/npm/v/@prettier/plugin-php.svg?style=flat-square">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fplugin-php?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fplugin-php.svg?type=shield"/></a>
   <a href="https://codecov.io/gh/prettier/plugin-php">
     <img alt="Coverage Status" src="https://img.shields.io/codecov/c/github/prettier/plugin-php.svg?style=flat-square">
   </a>
@@ -357,3 +358,7 @@ To test it out on a PHP file:
     </tr>
   <tbody>
 </table>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fplugin-php.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fplugin-php?ref=badge_large)
